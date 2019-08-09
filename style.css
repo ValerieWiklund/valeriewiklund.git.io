@@ -3,7 +3,11 @@
   background-image: url(background.png);
   min-height: 100vh;
   background-size: cover;
+}
 
+.menu {
+padding-right: 1rem;
+color: black;
 }
 
 .this-is-me {
@@ -25,4 +29,14 @@ min-height: 20vh;
 h2 {
 font-family: 'Laila', serif;
 
+}
+
+.projects {
+  width: 48%;
+}
+
+.contact {
+  background-color: #002c00;
+  min-height:20vh;
+  font-family: 'Laila', serif;
 }
