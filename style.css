@@ -1,5 +1,28 @@
 .riley {
 
-  background-image: image(background-image);
+  background-image: url(background.png);
   min-height: 100vh;
+  background-size: cover;
+
+}
+
+.this-is-me {
+background-color: rgba(255, 255, 255, .80);
+min-height: 15vh;
+font-family: 'Laila', serif;
+font-weight: bold;
+}
+
+.spacer {
+  min-height: 10vh;
+}
+
+.about { 
+background-color: rgba(255, 255, 255, .80);
+min-height: 20vh;
+}
+
+h2 {
+font-family: 'Laila', serif;
+
 }
