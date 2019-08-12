@@ -12,7 +12,7 @@ color: black;
 
 .this-is-me {
 background-color: rgba(255, 255, 255, .80);
-min-height: 15vh;
+min-height: 25vh;
 font-family: 'Laila', serif;
 font-weight: bold;
 }
